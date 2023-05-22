@@ -7,7 +7,6 @@
   flex-direction: column;
   margin: 0;
 }
-
 .header {
   background-color: #222222;
   display: flex;
@@ -22,8 +21,8 @@
   flex-direction: row;
   justify-content: center;
   gap: 859px;
-}
 
+}
 .left-items {
   display: flex;
   justify-content: center;
@@ -41,7 +40,6 @@
   height: 28px;
   margin-left: -1px;
 }
-
 .right-items {
   display: flex;
   min-width: 168px;
@@ -65,12 +63,12 @@
   position: relative;
 }
 .right-items__ellipse {
+
   height: 19px;
   position: absolute;
   left: 22px;
   top: -1px;
 }
-
 .right-items-group {
   align-self: center;
   height: 37px;
@@ -88,7 +86,6 @@
   left: 29px;
   top: 1px;
 }
-
 .preview {
   background-color: #F1E4E6;
   height: 764px;
@@ -149,11 +146,9 @@
 .preview .text_size-fashion {
   font-size: 37px;
 }
-
 .text_purple {
   color: #F16D7F;
 }
-
 .offer {
   display: flex;
   align-items: flex-start;
@@ -350,7 +345,6 @@
   top: 20px;
   left: 18px;
 }
-
 .feature {
   background-color: #222224;
   margin-top: 96px;
@@ -409,7 +403,6 @@
   margin-top: 16px;
   letter-spacing: 0;
 }
-
 .subscribe {
   background-image: url("../resources/common/subscribe/subscribe-background.svg");
   background-repeat: no-repeat;
@@ -502,7 +495,6 @@
 .subscribe__btn:hover {
   background-color: #E05C6E;
 }
-
 .footer {
   background-color: #222224;
   height: 79px;
@@ -553,7 +545,6 @@
   height: 18px;
   filter: brightness(0);
 }
-
 @media screen and (min-width: 770px) and (max-width: 1600px) {
   .header {
     min-width: 770px;
@@ -823,5 +814,3 @@
     order: 1;
   }
 }
-
-/*# sourceMappingURL=style.css.map */

@@ -186,7 +186,6 @@
 .subscribe__btn:hover {
   background-color: #E05C6E;
 }
-
 .footer {
   background-color: #222224;
   height: 79px;
@@ -237,7 +236,6 @@
   height: 18px;
   filter: brightness(0);
 }
-
 .cart__title {
   display: flex;
   align-items: center;
@@ -256,7 +254,6 @@
   line-height: 29px;
   color: #F16D7F;
 }
-
 .cart__items {
   display: flex;
   margin-top: 96px;
@@ -450,7 +447,6 @@
 .color_gray {
   color: #6F6E6E;
 }
-
 @media screen and (min-width: 0) and (max-width: 1600px) {
   .header {
     min-width: 770px;
